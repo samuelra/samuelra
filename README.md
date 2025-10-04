@@ -21,7 +21,7 @@ I’m passionate about building clean, reusable components and architecting effi
 
 | Project | Description | Technologies |
 |----------|--------------|---------------|
-| [**lwc-dynamic-datatable**](https://github.com/YOUR_USERNAME/lwc-dynamic-datatable) | Generic Lightning Datatable with inline editing, pagination, and validation. | LWC, LDS, Apex |
+| [**lwc-dynamic-datatable**](https://github.com/samuelra/lwc-dynamic-datatable) | Generic Lightning Datatable with inline editing, pagination, and validation. | LWC, LDS, Apex |
 ---
 
 ## 📫 Connect With Me
