@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Samuel AthisayaRajkumar  
 
-<!--
-**samuelra/samuelra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Salesforce Developer | 9+ Years of Experience | LWC • Apex • Flow • Integration**  
 
-Here are some ideas to get you started:
+I'm a results-driven Salesforce Developer specializing in scalable Lightning Web Components (LWC), Apex integrations, and automation solutions.  
+I’m passionate about building clean, reusable components and architecting efficient Salesforce experiences for users.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack & Skills
+
+- ⚡ **Salesforce Platform:** LWC, Aura, Apex, Visualforce, SOQL, Flow Builder, Triggers  
+- 🌐 **Integrations:** REST & SOAP APIs, Platform Events, Named Credentials, External Services  
+- 🏗️ **Architecture:** Modular Design, Governor Limit Optimization, Event-Driven Architecture  
+- 🧩 **Tools:** Salesforce CLI (SFDX), GitHub, Postman, VS Code, Change Sets, DevOps Center  
+- 🎨 **Frontend:** HTML, CSS, JavaScript (ES6), Lightning Design System (SLDS)
+
+---
+
+## 📚 Featured Projects
+
+| Project | Description | Technologies |
+|----------|--------------|---------------|
+| [**lwc-dynamic-datatable**](https://github.com/YOUR_USERNAME/lwc-dynamic-datatable) | Generic Lightning Datatable with inline editing, pagination, and validation. | LWC, LDS, Apex |
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn] - https://www.linkedin.com/in/samuelrajan12/ 
+- 🧑‍💻 [Trailblazer Profile] - https://www.salesforce.com/trailblazer/srajan59 
+- ✉️ SAMUEl120792@GMAIL.COM
